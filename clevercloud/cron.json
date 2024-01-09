@@ -1,0 +1,8 @@
+{
+  "cron": [
+    {
+      "command": "$ROOT/admin/cli/cron.php",
+      "schedule": "* * * * *"
+    }
+  ]
+}
