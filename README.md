@@ -52,7 +52,7 @@ Time to push your code!
 
 💡 If you get a reference error when pushing, try this: `git push clever main:master`.
 
-**Note**: This repository is already configurend to run `/admin/cli/cron.php` every minute as a [CRON job](https://developpers-staging.cleverapps.io/doc/administrate/cron/).
+**Note**: This repository is already configured to run `/admin/cli/cron.php` every minute as a [CRON job](https://developpers-staging.cleverapps.io/doc/administrate/cron/).
 
 ## 🎓 Further Help
 
